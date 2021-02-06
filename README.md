@@ -11,7 +11,7 @@
 	<link rel="stylesheet" 
           href= 
 "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	<link rel="stylesheet" href="C:\Users\vaibhu\Desktop\NJIT\IS 218\card.css">
+	<link rel="stylesheet" href="https://github.com/vvr25/About-me-blog/blob/main/card.css">
     </head>
 	</head>
   <header> 
