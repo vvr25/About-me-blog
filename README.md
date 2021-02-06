@@ -46,17 +46,17 @@
 			<div class="card col-20 mx-auto" style="background-color:#d9ccc3">
 				<br>
 				
-				<div class="mx-auto">
-					<img class = "mx-auto" src="C:\Users\vaibhu\Desktop\NJIT\IS 218\subscribe.JPG" width="200">
-				</div>
+<div class="mx-auto">
+	<img class = "mx-auto" src="C:\Users\vaibhu\Desktop\NJIT\IS 218\subscribe.JPG" width="200">
+</div>
  
   <div class="mx-auto">
-					<div class="row">
-						<div class="column">
-						<div class="col-sm-6">
-						<div class="card" style="width: 17rem; padding:18px; height:15rem; margin:auto;">
-								<div class="card-body">
-									<a <label for="Fname">First Name</label>
+	<div class="row">
+		<div class="column">
+			<div class="col-sm-6">
+				<div class="card" style="width: 17rem; padding:18px; height:15rem; margin:auto;">
+					<div class="card-body">
+						<a <label for="Fname">First Name</label>
 							<input class="form-control" id="Fname" placeholder="Enter First Name">
 						</div>
 							<label for="Lname">Last Name</label>
